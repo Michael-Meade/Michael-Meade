@@ -28,3 +28,10 @@ I am a CyberSecurity engineer at a local company. I enjoy working on projects an
 - [Ruby_RE](https://github.com/Michael-Meade/Ruby_RE)
 - [XMR-Pools](https://github.com/Michael-Meade/xmr_pools)
 - [Python Nmap Tool](https://github.com/Michael-Meade/PythonNmapTool)
+- [Turtle Wallet RPC](https://github.com/Michael-Meade/TurtleWalletRPC)
+
+
+## Some of my Blog posts
+- [Telegram Malware](https://michael-meade.github.io/2021/07/12/Telegram-Malware.html)
+- [Dorking Out](https://michael-meade.github.io/2019/05/04/Dorking-Out.html)
+- [A Look into Linux mining Malware](https://michael-meade.github.io/2019/04/10/A-Look-Into-Linux-Mining-Malware.html)
