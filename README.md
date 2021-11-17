@@ -13,6 +13,7 @@ I am a CyberSecurity engineer at a local company. I enjoy working on projects an
 - Cybersecurity
 - Machine learning
 - Watching TV
+- Coding
 
 ## Github Stats
 
