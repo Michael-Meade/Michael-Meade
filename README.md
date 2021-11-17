@@ -35,3 +35,5 @@ I am a CyberSecurity engineer at a local company. I enjoy working on projects an
 - [Telegram Malware](https://michael-meade.github.io/2021/07/12/Telegram-Malware.html)
 - [Dorking Out](https://michael-meade.github.io/2019/05/04/Dorking-Out.html)
 - [A Look into Linux mining Malware](https://michael-meade.github.io/2019/04/10/A-Look-Into-Linux-Mining-Malware.html)
+- [Another-Miner-Caught-By-HoneyPot](https://michael-meade.github.io/2021/07/16/Another-Miner-Caught-By-HoneyPot.html)
+- [Messing-with-TurtleCoin-Payment-Ids](https://michael-meade.github.io/2021/06/23/Messing-with-TurtleCoin-Payment-Ids.html)
