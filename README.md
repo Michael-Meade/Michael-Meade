@@ -5,7 +5,7 @@ I am a CyberSecurity engineer at a local company. I enjoy working on projects an
 - ⚡ Fun fact: I used to have two Turtles. Named Speedy & lightening
 - 🌐 Web site: https://michael-meade.github.io
 
-## My intrests
+## My interests
 - Cryptocurrencies ( Monero, TurtleCoin )
 - Banksy
 - Investments
